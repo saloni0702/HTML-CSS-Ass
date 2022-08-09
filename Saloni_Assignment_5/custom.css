@@ -1,0 +1,50 @@
+ 
+.card{
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 50px;
+}
+ 
+.sub-container1
+{
+	width: 30%;
+	background-color: #7bd96a;
+	margin-left: 30px;
+	margin-top: 50px;
+
+}
+
+#plant1
+{
+	position: relative;
+	top:-50px;
+}
+
+#plant2
+{
+	position: relative;
+	left: -30px;
+	right: -30px;
+}
+
+.sub-container2
+{
+	width: 60%;
+	text-align: center;
+	margin-top: 50px;
+	align-content: center;	
+}
+
+#button1,#button2{
+	background-color: #7bd96a;
+	border-radius: 20px;
+	margin-top: 150px;
+}
+.sub-container2 h1{
+	padding-top: 20px;
+}
+
+.sub-container2 p{
+	padding-top: 50px;
+}
+
